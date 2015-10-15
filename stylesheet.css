@@ -1,3 +1,89 @@
-p {
-color: #d6845b
- }
+div {
+	border-radius: 8px;
+}
+
+#header {
+	z-index: 4;
+	position: fixed;
+	width: 98%;
+	margin-top: -25px;
+	height: 63px;
+	background-color: #000080;
+	margin-bottom: 17px;
+}
+
+#name {
+	float:left;
+	margin-left: 6px;
+	padding-top: 7px;
+	font-size: 15px;
+	font-family: Arial;
+	color: ##FF6096;
+}
+
+#email{
+	float:right;
+	margin-right: 6px;
+	padding-top: 7px;
+	font-size: 38px;
+	font-family: sans-serif;
+	color: #fff692;
+}
+
+h4 {
+	margin-left: 8px;
+	margin-bottom: 12px;
+	font-family: Verdana;
+}
+
+.right p {
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: -30px;
+	font-family: Garamond;
+	color: #69abcd;
+}
+
+li {
+	list-style-type: square;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.left {
+	position: relative;
+	float: left;
+	margin-top: 56px;
+	width: 14%;
+	height: 325px;
+	background-color: #Bc5aD9;
+	margin-bottom: 10px;
+}
+
+.right {
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 86%;
+	height: 40px;
+	background-color: #F4dBC3;
+	margin-bottom: 10px;
+}
+
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #668284;
+	clear: both;
+	font-family: Verdana;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
+}
+
+#footer p {
+	position: relative;
+	padding-top: 15px;
+}
