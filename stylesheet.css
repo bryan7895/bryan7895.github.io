@@ -88,6 +88,12 @@ a:hover {
 	padding-top: 15px;
 }
 img {
-	height:1000px;
-	width:1000px
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 10%;
+	height: 400px;
+	background-color: #Bc5aD9;
+	margin-bottom: 10px;
+
 }
