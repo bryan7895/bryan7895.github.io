@@ -2,16 +2,6 @@ div {
 	border-radius: 5px;
 }
 
-#header {
-	z-index: 1;
-	position: fixed;
-	width: 97.5%;
-	margin-top: -20px;
-	height: 60px;
-	background-color: #250C3D;
-	margin-bottom: 10px;
-}
-
 #name {
 	float:left;
 	margin-left: 5px;
