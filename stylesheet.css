@@ -51,38 +51,6 @@ li {
 a:hover {
 	font-weight: bold;
 }
-
-.left {
-	position: relative;
-	float: left;
-	margin-top: 50px;
-	width: 10%;
-	height: 400px;
-	background-color: #Bc5aD9;
-	margin-bottom: 10px;
-}
-
-.right {
-	position: relative;
-	float: right;
-	margin-top: 50px;
-	width: 88%;
-	height: 400px;
-	background-color: ###755E8D;
-	margin-bottom: 10px;
-}
-
-#footer {
-	position: relative;
-	height: 50px;
-	background-color: #250C3D;
-	clear: both;
-	font-family: Verdana, sans-serif;
-	font-size: 14px;
-	text-align: center;
-	color: #ffafff;
-}
-
 #footer p {
 	position: relative;
 	padding-top: 15px;
