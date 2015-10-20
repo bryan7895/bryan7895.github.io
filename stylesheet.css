@@ -1,14 +1,14 @@
 h2{
 	text-align: center;
 	font-family: monospace;
-	color:#ffffff ;
+	color: white;
 }
 
 p {
 	text-align: center;
 	font-family: Garamond, serif;
 	font-size: 18px;
-	color: #ffffff;
+	color: white;
 }
 
 div {
@@ -19,6 +19,7 @@ div {
 a {
 	color: #3D59AB;
 	font-family: Verdana, sans-serif;
+	text-decoration: facebook, instagram, twitter
 }
 html{
 	background-color: #0f0101; no-repeat center center fixed;
