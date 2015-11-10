@@ -1,10 +1,18 @@
 #name{
+<<<<<<< HEAD
 	font-family:Garamond;
 	font-size: 47px;
 	text-align: center;
 	padding-top: 75px;
 	color:#ffffff;
 	font-style: oblique;
+=======
+	font-family: Garamond;
+	font-size: 47px;
+	text-align: center;
+	padding-top: 75px;
+	color:#ffffff
+>>>>>>> origin/master
 }
 
 a:link{
@@ -20,6 +28,7 @@ a:hover{
 }
 
 #navbar{
+<<<<<<< HEAD
     border:0px solid #ccc;
     border-width:0px 0;
     list-style:none;
@@ -72,6 +81,40 @@ h1{
 	font-style: oblique;
 	padding: 25px;
 }
+=======
+	position: fixed;
+	top:10px;
+	left:0%;
+}
+
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: 10px;
+}
+
+li {
+	background: url(images/black.jpg) center top repeat-x;
+	display: inline;
+	border: 0px solid #000000;
+	font-family: Garamond;
+  	font-weight: bold;
+	color: #ffffff;
+	padding: 5px;
+	background-color: #000000;
+	font-size: 26px
+}
+html{
+  background: url(http://www.woyo.in/backgrounds/woyo_b/b36.jpg)
+}
+
+h1{
+	text-align: center;
+	font-family: Garamond;
+	color: white;
+}
+
+>>>>>>> origin/master
 .social{
   display:inline;
   border:3px;
