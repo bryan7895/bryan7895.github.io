@@ -139,13 +139,13 @@ h1{
       position: relative;
       top:115px;
 }
-#aboutMe{
-      text-align:center;
-      position: relative;
-	top: 255px;
+#aboutMe {
+	position: absolute;
 	color: white;
 	font-size: 2.2em;
 	font-style: oblique;
+	left:255px;
+	top:255px;
 }
 #quote{
 	text-align:center;
@@ -168,5 +168,15 @@ h1{
 }
 #school{
 	color:white;
+	text-decoration: underline;
+}
+
+ul#proj li {
+	font-size: 36px;
+	color: white;
+	font-style: oblique;
+	text-align: center;
+	list-style: none;
+	padding: 15px;
 	text-decoration: underline;
 }
